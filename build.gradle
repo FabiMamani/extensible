@@ -1,0 +1,22 @@
+apply plugin: 'java-library'
+
+repositories {
+    mavenCentral()
+}
+
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+dependencies {
+    implementation 'com.github.FabiMamani:demo-core:-SNAPSHOT'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.10.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.0'
+
+}
+
+test {
+    useJUnitPlatform()
+}
