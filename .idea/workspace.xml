@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f9ea2bc-b8f9-4ef1-8c4f-c4472debd455" name="Changes" comment="Primer commit">
+    <list default="true" id="5f9ea2bc-b8f9-4ef1-8c4f-c4472debd455" name="Changes" comment="update build.gradle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,11 +218,19 @@
       <option name="project" value="LOCAL" />
       <updated>1713831406769</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update build.gradle">
+      <created>1713831982211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713831982211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+    <MESSAGE value="update build.gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="update build.gradle" />
   </component>
 </project>
